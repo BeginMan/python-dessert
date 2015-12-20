@@ -1,0 +1,4 @@
+- [知乎：Python 有什么奇技淫巧？](https://www.zhihu.com/question/27376156)
+- [国外网站 python tips](http://pythontips.com/)
+- [Python Tips, Tricks, and Hacks](http://www.siafoo.net/article/52)
+- [Python Tips and Tricks](http://pythoncentral.io/category/python-tips-tricks-hacks-idioms/)
